@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        tools:ignore="HardcodedText"
+        android:id="@+id/s"
+        android:title="Search"
+        android:icon="@drawable/search"
+        app:showAsAction="always"
+        />
+    <item
+        tools:ignore="HardcodedText"
+        android:id="@+id/g"
+        android:title="Group"/>
+    <item
+        tools:ignore="HardcodedText"
+        android:id="@+id/b"
+        android:title="New Broadcast"/>
+    <item
+        tools:ignore="HardcodedText"
+        android:id="@+id/w"
+        android:title="WhatsApp Web "/>
+    <item
+        tools:ignore="HardcodedText"
+        android:id="@+id/m"
+        android:title="Stored Massage"/>
+    <item
+        tools:ignore="HardcodedText"
+        android:id="@+id/sit"
+        android:title="Setting"/>
+
+
+
+</menu>
